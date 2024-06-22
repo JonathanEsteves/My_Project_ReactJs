@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1> Olá, React!</h1>
+      <h1> Olá, React!</h1>git 
       <h2> Alterando o JSX</h2>
       <h3>E aí, John,codando em {newName}?</h3>
       
